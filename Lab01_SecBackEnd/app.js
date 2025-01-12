@@ -53,7 +53,7 @@ const books = [
       Suggestions: false
     },
     {
-      Code: "B006",
+      Code: "B005",
       Title: "Ocean Wonders",
       Cover: "https://example.com/ocean_wonders_cover.jpg", // Image source
       Description: "Explore the depths of the ocean and discover its hidden wonders.",
