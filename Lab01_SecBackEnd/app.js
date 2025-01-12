@@ -68,7 +68,7 @@ const books = [
 
 
 app.use(cors({
-    origin: 'http://localhost:5173', // Allow requests only from your frontend URL
+    origin: '*', // Allow requests only from your frontend URL
     methods: ['GET', 'POST'], // Specify allowed methods (adjust as needed)
     allowedHeaders: ['Content-Type'], // Specify allowed headers
   }));
