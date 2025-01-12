@@ -1,0 +1,9 @@
+/* App.css */
+.container {
+  display: flex;               /* Enable Flexbox */
+  flex-wrap: wrap;             /* Allow wrapping of items to the next line */
+  gap: 20px;                   /* Optional: space between the cards */
+  justify-content: start;      /* Align items to the left */
+  margin-top: 20px;             /* Optional: add some space on top */
+  padding: 20px;                /* Optional: add padding around the container */
+}
